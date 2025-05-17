@@ -1,6 +1,6 @@
 
 
-![logo](file:///E:/AAA%E5%A4%A7%E5%AD%A6/%E6%AF%94%E8%B5%9B/ETHbeijing/photo.png)
+![logo](file:///E:/AAA%E5%A4%A7%E5%AD%A6/%E6%AF%94%E8%B5%9B/ETHbeijing/logo.png)
 
 # CWDAO
 
