@@ -1,6 +1,6 @@
 
 
-![logo]([file://[https://github.com/Coco-yun/CW-DAO/blob/main/logo.png)
+![logo]([file://[https://github.com/Coco-yun/CW-DAO/blob/main/logo.png])
 
 # CWDAO
 
