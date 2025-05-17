@@ -1,5 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/Coco-yun/CW-DAO/main/logo.png" style="max-width: 600px; height: auto;">
+
 # CWDAO
 
 **一个 AI 赋能的去中心化知识共享与协作平台**
